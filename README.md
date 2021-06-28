@@ -1,4 +1,4 @@
-# Movie-Apps-with-TMDB-API
+# To-Do-List-Stechoq-
  _This repository for skill test Stechoq_
 
 ## Library References
@@ -11,4 +11,4 @@
 - Live Data
 
 ### Rest API
-https://developers.themoviedb.org
+https://jsonplaceholder.typicode.com/todos
